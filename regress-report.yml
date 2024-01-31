@@ -73,7 +73,7 @@ test-cases:
     status: fail
 
   - summary: |
-      В пустой корзине активна кнопка "Очистить корзину"
+      В пустой корзине активна кнопка "Очистить корзину"(Clear cart)
     status: fail
 
   - summary: |
