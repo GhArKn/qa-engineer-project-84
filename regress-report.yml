@@ -142,7 +142,7 @@ bugreports:
 			Windows 11 Version 23H2 (Build 22631.3007)
 		steps-to-reproduce: |
 			1. Зайти на главную страницу магазина https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
-			2. В разделе цена указать в поле "From" значение "0", а в поле "To" значение "1749"
+			2. В разделе цена указать в поле "From"(От) значение "0", а в поле "To"(До) значение "1749"
 		expected-result: |
 			На сайте отображаются все товары относящиеся к заданным параметрам с возможностью перехода на следующую страницу
 		actual-result: |
